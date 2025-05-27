@@ -69,18 +69,7 @@ This project automates the process of transcribing and summarizing audio files u
 
 ---
 
-## 🧑‍💻 Getting Started
 
-### Prerequisites
-- [n8n](https://docs.n8n.io/getting-started/installation/) (locally or cloud)
-- Google account (Drive + Docs access)
-- API Keys:
-  - [AssemblyAI API key](https://app.assemblyai.com/)
-  - [Google Gemini API key](https://makersuite.google.com/app/apikey)
 
-### Setup Steps
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/audio-ai-workflow.git
 
