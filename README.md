@@ -64,8 +64,9 @@ This project automates the process of transcribing and summarizing audio files u
 |------|-------------|
 | ![Step 1](screenshots/step1.png) | Workflow setup in n8n |
 | ![Step 2](screenshots/step2.png) | Google Drive trigger |
-| ![Step 3](screenshots/step3.png) | Gemini summarization |
-| ![Step 4](screenshots/step4.png) | Summary saved to Google Docs |
+| ![Step 3](screenshots/step3.png) | Assembly AI |
+| ![Step 3](screenshots/step4.png) | Gemini summarization |
+| ![Step 4](screenshots/step5.png) | Summary saved to Google Docs |
 
 ---
 
